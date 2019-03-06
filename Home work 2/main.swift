@@ -10,6 +10,9 @@ import Foundation
 var array = Array (1...100)
 print(array)
 
+var a = 4
+var b = 5
+print (a>b)
 
 
 
